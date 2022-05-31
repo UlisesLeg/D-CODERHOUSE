@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menulista li{
+    display: inline-block;
+    position: static;
+    padding: 30px 30px 40px 5px;
+    font-size: 30px; 
+    
+}
+h1{
+    font-size: 70px;
+    color:darkorchid;
+    padding: 30px 30px 40px 5px;
+    background-color:beige;
+    text-align: center;
+
+    
+    
+}
+.navmenu{
+    color: red;
+    text-align: center;
+}
+h2{
+    color:cornflowerblue;
+    font-size: 20px;
+    padding: 30px 30px 40px 5px;
+}
+.h2inicio{
+    font-size: 50px;
+    padding: 30px 30px 40px 5px;
+    color: darkorchid;
+    text-align: center;
+
+}
+.h4p1{
+    color: darkorchid;
+    font-size: 30px;
+    padding: 30px 30px 40px 5px;
+    text-align: center;
+}
+.h4ropa{
+    color:hotpink;
+    font-size: 30px;
+    padding: 30px 30px 40px 5px;
+}
+.h3acce{
+    color:hotpink;
+    font-size: 30px;
+    padding: 30px 30px 40px 5px;
+}
+.footerinicio{
+    border-top: solid gray;
+    border-bottom: solid gray;
+    padding: 5px; ;
+}
+.anchor{
+    color:black;
+}
+.anchor1{
+    color: mediumslateblue;
+}
+.entrega1{
+    color: mediumslateblue;
+}
+
+.zonaenvios{
+    color: mediumslateblue;
+    
+}
+.bodyaccesorios{
+    background-color: beige;
+}
+.bodyinicio{
+    background-color: antiquewhite;
+}
+.bodyropa{
+    background-color:blanchedalmond;
+}
+.bodycalzado{
+    background-color:lightgoldenrodyellow;
+}
+.bodycontacto{
+    background-color:mistyrose;
+}
+.texto1{
+    color:rgb(255, 105, 105);
+    width: 720px;
+    padding: 15px;
+}
+.h2quienes{
+    padding: 30px 30px 40px 5px;
+    color: blueviolet;
+}
+.zonaentrega{
+    margin-right: 10px;
+    margin-left: 20px;
+    width: 100px;
+    
+}
+.insta{
+    color: cornflowerblue;
+}
+.texto2{
+    color: lightskyblue;
+}
+.insta2{
+    color: blueviolet;
+}
+.imagenmenu{
+  padding-left: 40px;
+  text-align: center;
+
+  width: 549px;
+  height: 549px;
+  display: grid;
+  float: left;
+  margin: 20px;
+}
+.parrafo1{
+    color: black;
+    font-size: 50px;
+    padding: 30px 30px 40px 10px;
+    background-color: beige;
+    font-style: italic;
+    text-align: center;
+    
+}
+.imagenesropa{
+display: grid;
+grid-template-areas: repeat(2, 1fr);
+grid-auto-rows: 150px;
+padding: 20px;
+width: 360px;
+height: 360px;
+display: inline-block;
+}
+.imagenesaccesorios{
+    width: 480px;
+    height: 480px;
+    padding-right: 10px;
+    position: relative;
+    left: 10px;
+    border-bottom: 3px;
+}
+.zonaentrega2{
+    color: black;
+    font-size: 15px;
+    padding: 30px 30px 40px 10px;
+    background-color: lightblue;
+    font-style: italic;
+    position: relative;
+}
+.grid{
+    display: grid;
+    grid-template-areas: none;
+    background-color:silver;
+}
+.grid2{
+    background-color: beige;
+}
